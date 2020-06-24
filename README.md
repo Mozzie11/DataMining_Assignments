@@ -1,4 +1,4 @@
-# DataMingAssignments
+# DataMining_Assignments
 Four assignments from the course of MSBD5002 in HKUST
 1. Hash树的构建和Fp-growth算法的实现
 2. 对随机森林模型进行调参和Adaboost算法的实现
